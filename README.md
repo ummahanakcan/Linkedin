@@ -1,2 +1,2 @@
 # Linkedin
-![image](https://github.com/ummahanakcan/Linkedin/blob/main/Yeni.png)
+![image](https://github.com/ummahanakcan/Linkedin/blob/main/Yeni.PNG)
